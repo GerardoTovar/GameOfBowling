@@ -1,0 +1,27 @@
+{
+  "name": "kata-02-el-juego-de-boliche-k2-m22-t1-reactive-01",
+  "version": "1.0.0",
+  "description": "El juego del boliche",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "lint-fix": "eslint . --fix",
+    "format": "npx prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BC-MAY-21-RN/kata-02-el-juego-de-boliche-k2-m22-t1-reactive-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BC-MAY-21-RN/kata-02-el-juego-de-boliche-k2-m22-t1-reactive-01/issues"
+  },
+  "homepage": "https://github.com/BC-MAY-21-RN/kata-02-el-juego-de-boliche-k2-m22-t1-reactive-01#readme",
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
